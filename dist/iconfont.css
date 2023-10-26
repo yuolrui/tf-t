@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "tf-t"; /* Project id 4280407 */
+  src: url('iconfont.woff2?t=1697592197890') format('woff2'),
+       url('iconfont.woff?t=1697592197890') format('woff'),
+       url('iconfont.ttf?t=1697592197890') format('truetype');
+}
+
+.tf-t {
+  font-family: "tf-t" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tf-t-filter:before {
+  content: "\e617";
+}
+
+.tf-t-download:before {
+  content: "\e615";
+}
+
+.tf-t-plus:before {
+  content: "\e616";
+}
+
+.tf-t-arrow-rotate-right:before {
+  content: "\e613";
+}
+
+.tf-t-arrows-rotate:before {
+  content: "\e614";
+}
+
+.tf-t-umbrella-simple:before {
+  content: "\e611";
+}
+
+.tf-t-umbrella:before {
+  content: "\e612";
+}
+
+.tf-t-block-brick-fire:before {
+  content: "\e610";
+}
+
+.tf-t-arrow-right-from-bracket:before {
+  content: "\e60e";
+}
+
+.tf-t-right-from-bracket:before {
+  content: "\e60f";
+}
+
+.tf-t-floppy-disk:before {
+  content: "\e60d";
+}
+
+.tf-t-key:before {
+  content: "\e60c";
+}
+
+.tf-t-user-group:before {
+  content: "\e609";
+}
+
+.tf-t-magnifying-glass:before {
+  content: "\e60a";
+}
+
+.tf-t-house:before {
+  content: "\e60b";
+}
+
+.tf-t-language:before {
+  content: "\e607";
+}
+
+.tf-t-user:before {
+  content: "\e608";
+}
+
